@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/Unreal/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"D:/Unreal/MyProject3/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"D:/Unreal/MyProject3/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset"
 			]
