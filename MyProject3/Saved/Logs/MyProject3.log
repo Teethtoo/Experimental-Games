@@ -3542,3 +3542,5 @@ Script Stack (0 frames) :
 [2024.02.15-17.14.10:690][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WB_door_Auto5
 [2024.02.15-17.14.10:690][571]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/WB_door_Auto5B11D438745C235EAFC36418AAF1C8815.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/WB_door_Auto5.uasset'
 [2024.02.15-17.14.10:691][571]LogFileHelpers: Auto-saving content packages took 0.068
+[2024.02.15-17.21.54:717][ 44]BlueprintLog: New page: Compile WB_door
+[2024.02.15-17.21.54:750][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
