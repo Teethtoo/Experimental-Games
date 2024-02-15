@@ -2926,3 +2926,34 @@ Script Stack (0 frames) :
 [2024.02.15-14.55.36:334][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
 [2024.02.15-14.55.36:339][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2024.02.15-14.55.36:370][664]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.02.15-14.57.40:160][298]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.57.40:249][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.15-14.59.27:557][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.15-14.59.27:560][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto8
+[2024.02.15-14.59.27:560][420]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/EAHCBN229IT8APJO305AH5_Auto8F0DE28F043C9004BCF7C32990E46C80C.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto8.uasset'
+[2024.02.15-14.59.27:562][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto8
+[2024.02.15-14.59.27:562][420]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/2FJPSLFYEBHTZC08QX3VR2_Auto83FF4F6D74390AFE35ECB719DDFF75537.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto8.uasset'
+[2024.02.15-14.59.27:563][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2024.02.15-14.59.27:563][420]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.02.15-14.59.27:563][420]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle] ([2] browsable assets)...
+[2024.02.15-14.59.27:587][420]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle]
+[2024.02.15-14.59.27:587][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle]
+[2024.02.15-14.59.27:591][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto8
+[2024.02.15-14.59.27:591][420]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/BP_Pickup_Rifle_Auto808CB2D76467C1A1FF2C6A48F4A0450BC.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto8.uasset'
+[2024.02.15-14.59.27:592][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_ShotgunComponent] ([2] browsable assets)...
+[2024.02.15-14.59.27:592][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_ShotgunComponent]
+[2024.02.15-14.59.27:605][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_ShotgunComponent_Auto8
+[2024.02.15-14.59.27:605][420]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/BP_ShotgunComponent_Auto87277202746C4BAC9A46C5694D4DF62E0.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_ShotgunComponent_Auto8.uasset'
+[2024.02.15-14.59.27:605][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/Enemy] ([2] browsable assets)...
+[2024.02.15-14.59.27:617][420]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy]
+[2024.02.15-14.59.27:617][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Enemy]
+[2024.02.15-14.59.27:639][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto8
+[2024.02.15-14.59.27:639][420]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemy_Auto84BE459874F1FC2AD0F1F73ACA74A522C.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto8.uasset'
+[2024.02.15-14.59.27:640][420]LogFileHelpers: Auto-saving content packages took 0.077
+[2024.02.15-15.00.04:828][766]BlueprintLog: New page: Compile BP_ShotgunComponent
+[2024.02.15-15.00.04:834][766]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2024.02.15-15.00.04:834][766]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.02.15-15.00.04:885][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.02.15-15.00.16:029][982]LogViewport: Scene viewport resized to 826x515, mode Windowed.
+[2024.02.15-15.00.20:326][432]BlueprintLog: New page: Compile BP_ShotgunComponent
+[2024.02.15-15.00.20:355][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
