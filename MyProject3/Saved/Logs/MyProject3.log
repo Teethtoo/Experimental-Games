@@ -1873,3 +1873,1056 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.15-14.00.20:345][748]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.02.15-14.00.20:425][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2024.02.15-14.00.21:191][748]LogViewport: Scene viewport resized to 761x523, mode Windowed.
+[2024.02.15-14.00.24:666][749]LogUObjectHash: Compacting FUObjectHashTables data took  42.44ms
+[2024.02.15-14.00.24:890][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 2.316
+[2024.02.15-14.00.24:954][749]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/Enemey] ([2] browsable assets)...
+[2024.02.15-14.00.24:954][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Enemey]
+[2024.02.15-14.00.25:419][749]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Enemey_Auto3
+[2024.02.15-14.00.25:419][749]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemey_Auto31174581D45F85C7259795DA6134B0171.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/Enemey_Auto3.uasset'
+[2024.02.15-14.00.25:524][749]LogFileHelpers: Auto-saving content packages took 0.633
+[2024.02.15-14.00.36:121][ 40]BlueprintLog: New page: Compile BP_ShotgunComponent
+[2024.02.15-14.00.36:487][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.15-14.00.37:944][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.00.38:121][170]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_ShotgunComponent
+[2024.02.15-14.00.38:122][170]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/BP_ShotgunComponent3962A78F4B71FD71F7DD4DB049160301.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_ShotgunComponent.uasset'
+[2024.02.15-14.00.38:157][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 557 ms)
+[2024.02.15-14.00.38:170][170]AssetCheck: New page: Asset Save: BP_ShotgunComponent
+[2024.02.15-14.00.38:170][170]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_ShotgunComponent.BP_ShotgunComponent
+[2024.02.15-14.00.54:578][306]LogViewport: Scene viewport resized to 924x691, mode Windowed.
+[2024.02.15-14.01.06:420][803]LogSlate: Window 'Enemey' being destroyed
+[2024.02.15-14.01.06:422][803]LogSlate: Window 'Enemey' being destroyed
+[2024.02.15-14.01.06:514][803]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.01.06:624][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.01.06:915][803]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.01.06:915][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.01.11:464][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.15-14.01.13:715][258]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.15-14.01.13:974][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.15-14.01.13:991][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.15-14.01.14:006][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.15-14.01.16:368][373]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.15-14.01.16:393][373]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.15-14.01.16:397][373]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.15-14.01.16:402][374]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.15-14.01.19:440][739]LogContentBrowser: Attempting asset rename: NewBlueprint -> Enemy
+[2024.02.15-14.01.19:489][739]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.15-14.01.20:454][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.01.20:454][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.01.20:454][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.01.20:810][854]LogViewport: Scene viewport resized to 924x691, mode Windowed.
+[2024.02.15-14.03.27:064][413]LogSlate: Took 0.042933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.15-14.03.27:228][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Total job queries 3,562, among them cache hits 6 (0.17%)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Tracking 3,556 distinct input hashes that result in 2,520 distinct outputs (70.87%)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: RAM used: 58.95 MiB of 819.20 MiB budget. Usage: 7.20%
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Shaders Compiled: 3,556
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Jobs assigned 3,556, completed 3,556 (100.00%)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Average time worker was idle: 61.13 s
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Time job spent in pending queue: average 198.21 s, longest 439.37 s
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Job execution time: average 9.97 s, max 36.80 s
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Job life time (pending + execution): average 208.18 s, max 443.18
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 476.48 s
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Jobs were issued in 450 batches (only local compilation was used), average 7.90 jobs/batch
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Average processing rate: 7.46 jobs/sec
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Total thread time: 2,290.867 s
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Total thread preprocess time: 80.757 s
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Percentage time preprocessing: 3.53%
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Effective parallelization: 4.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.70 sec, max 7.66 sec, min 1.95 sec)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.51 sec, max 5.06 sec, min 2.44 sec)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.58 sec, max 3.12 sec, min 0.84 sec)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.51 sec, max 1.51 sec, min 1.51 sec)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2024.02.15-14.03.32:509][786]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.15-14.03.32:510][786]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.95% of total time (compiled  150 times, average 1.21 sec, max 2.25 sec, min 0.95 sec)
+[2024.02.15-14.03.32:510][786]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.48% of total time (compiled  128 times, average 1.16 sec, max 1.76 sec, min 0.51 sec)
+[2024.02.15-14.03.32:510][786]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.26% of total time (compiled  128 times, average 0.76 sec, max 1.85 sec, min 0.42 sec)
+[2024.02.15-14.03.32:510][786]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 3.97% of total time (compiled   96 times, average 0.95 sec, max 2.14 sec, min 0.69 sec)
+[2024.02.15-14.03.32:510][786]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.47% of total time (compiled   96 times, average 0.83 sec, max 1.72 sec, min 0.42 sec)
+[2024.02.15-14.03.32:510][786]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.06.43:259][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Textures/T_GridChecker_A.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2024.02.15-14.06.43:293][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_ChamferCube.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2024.02.15-14.06.43:306][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Cube.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2024.02.15-14.06.43:325][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_QuarterCylinder.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2024.02.15-14.06.43:332][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Ramp.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2024.02.15-14.06.43:364][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MF_ProcGrid.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2024.02.15-14.06.43:370][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_Gray.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2024.02.15-14.06.43:464][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_TopDark.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2024.02.15-14.06.43:507][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_Solid_Blue.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2024.02.15-14.06.43:513][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_PrototypeGrid.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2024.02.15-14.06.43:521][676]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_Solid.uasset to ../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2024.02.15-14.06.49:506][676]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_5.2/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.02.15-14.06.50:070][676]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2024.02.15-14.06.50:107][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2024.02.15-14.06.50:123][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2024.02.15-14.06.50:132][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Input/IMC_Default.uasset"
+[2024.02.15-14.06.50:138][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2024.02.15-14.06.50:172][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2024.02.15-14.06.50:225][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+[2024.02.15-14.06.50:232][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
+[2024.02.15-14.06.50:237][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
+[2024.02.15-14.06.50:246][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2024.02.15-14.06.50:251][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2024.02.15-14.06.50:255][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2024.02.15-14.06.50:259][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2024.02.15-14.06.50:264][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2024.02.15-14.06.50:268][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2024.02.15-14.06.50:307][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2024.02.15-14.06.50:312][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2024.02.15-14.06.50:317][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2024.02.15-14.06.50:352][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2024.02.15-14.06.50:365][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2024.02.15-14.06.50:369][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2024.02.15-14.06.50:381][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2024.02.15-14.06.50:386][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2024.02.15-14.06.50:389][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2024.02.15-14.06.50:393][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2024.02.15-14.06.50:398][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2024.02.15-14.06.50:403][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2024.02.15-14.06.50:407][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2024.02.15-14.06.50:411][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2024.02.15-14.06.50:416][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2024.02.15-14.06.50:420][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2024.02.15-14.06.50:423][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2024.02.15-14.06.50:427][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2024.02.15-14.06.50:431][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2024.02.15-14.06.50:434][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2024.02.15-14.06.50:438][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2024.02.15-14.06.50:442][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2024.02.15-14.06.50:445][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2024.02.15-14.06.50:449][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2024.02.15-14.06.50:453][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2024.02.15-14.06.50:457][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2024.02.15-14.06.50:461][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2024.02.15-14.06.50:466][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2024.02.15-14.06.50:469][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2024.02.15-14.06.50:473][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2024.02.15-14.06.50:477][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2024.02.15-14.06.50:481][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2024.02.15-14.06.50:527][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2024.02.15-14.06.50:816][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2024.02.15-14.06.50:827][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2024.02.15-14.06.50:841][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2024.02.15-14.06.50:852][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2024.02.15-14.06.50:864][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2024.02.15-14.06.50:871][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2024.02.15-14.06.50:881][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2024.02.15-14.06.50:885][676]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2024.02.15-14.06.53:240][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.15-14.06.53:658][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.02.15-14.06.53:743][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2024.02.15-14.06.53:977][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2024.02.15-14.06.54:066][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.02.15-14.06.54:130][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.02.15-14.06.54:157][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.02.15-14.06.54:347][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2024.02.15-14.06.54:386][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2024.02.15-14.06.54:393][676]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.02.15-14.06.55:973][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.06.56:481][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.06.58:180][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.06.58:486][676]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.02.15-14.06.58:486][676]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/BP_ThirdPersonCharacter2F23597E4CB349A648EB90B1D7EE6222.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.02.15-14.06.58:609][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 3.19 sec)
+[2024.02.15-14.06.59:417][676]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.02.15-14.06.59:417][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Total job queries 3,568, among them cache hits 6 (0.17%)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Tracking 3,560 distinct input hashes that result in 2,522 distinct outputs (70.84%)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: RAM used: 59.07 MiB of 819.20 MiB budget. Usage: 7.21%
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Shaders Compiled: 3,560
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Jobs assigned 3,562, completed 3,560 (99.94%)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Average time worker was idle: 86.68 s
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Time job spent in pending queue: average 197.88 s, longest 439.37 s
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Job execution time: average 9.96 s, max 36.80 s
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Job life time (pending + execution): average 207.95 s, max 443.18
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 477.82 s
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Jobs were issued in 456 batches (only local compilation was used), average 7.81 jobs/batch
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Average processing rate: 7.45 jobs/sec
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Total thread time: 2,292.184 s
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Total thread preprocess time: 81.024 s
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Percentage time preprocessing: 3.53%
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Effective parallelization: 4.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.70 sec, max 7.66 sec, min 1.95 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.51 sec, max 5.06 sec, min 2.44 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.58 sec, max 3.12 sec, min 0.84 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.51 sec, max 1.51 sec, min 1.51 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.94% of total time (compiled  150 times, average 1.21 sec, max 2.25 sec, min 0.95 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.48% of total time (compiled  128 times, average 1.16 sec, max 1.76 sec, min 0.51 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.25% of total time (compiled  128 times, average 0.76 sec, max 1.85 sec, min 0.42 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 3.97% of total time (compiled   96 times, average 0.95 sec, max 2.14 sec, min 0.69 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.46% of total time (compiled   96 times, average 0.83 sec, max 1.72 sec, min 0.42 sec)
+[2024.02.15-14.06.59:521][676]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.07.13:166][274]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.07.15:573][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.15:573][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.15:573][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.15:573][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.15:573][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.15:573][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.15:579][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.15:597][460]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.02.15-14.07.16:482][460]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.02.15-14.07.16:592][460]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.02.15-14.07.16:597][460]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.02.15-14.07.16:927][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.07.17:990][492]LogSlate: Window 'Add Content to the Project' being destroyed
+[2024.02.15-14.09.46:147][484]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.02.15-14.10.19:482][232]LogSlate: Took 0.079705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.15-14.10.27:247][ 68]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.10.27:496][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.15-14.10.52:895][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.11.04:564][207]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.15-14.11.07:836][408]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.02.15-14.11.07:845][408]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.15-14.11.07:852][408]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.15-14.11.07:910][409]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.15-14.11.13:730][ 41]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> _HealthBar
+[2024.02.15-14.11.13:865][ 41]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.15-14.11.15:456][169]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/_HealthBar._HealthBar
+[2024.02.15-14.11.15:457][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.11.15:457][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.11.15:469][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.11.15:469][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.11.15:508][169]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.02.15-14.11.17:904][169]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.02.15-14.11.18:055][169]LogSlate: Took 0.146653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.15-14.11.56:975][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.15-14.11.56:977][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.051
+[2024.02.15-14.11.56:977][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle] ([2] browsable assets)...
+[2024.02.15-14.11.56:977][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle]
+[2024.02.15-14.11.56:981][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto4
+[2024.02.15-14.11.56:981][631]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/BP_Pickup_Rifle_Auto40B62845B42B75D43B429D899D7C13149.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto4.uasset'
+[2024.02.15-14.11.56:993][631]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/Enemy] ([2] browsable assets)...
+[2024.02.15-14.11.57:010][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy]
+[2024.02.15-14.11.57:010][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.11.57:028][631]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C]
+[2024.02.15-14.11.57:028][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Enemy]
+[2024.02.15-14.11.57:031][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto4
+[2024.02.15-14.11.57:031][631]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemy_Auto407C656B346D684E0C1E1248133B983ED.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto4.uasset'
+[2024.02.15-14.11.57:031][631]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/_HealthBar] ([2] browsable assets)...
+[2024.02.15-14.11.57:033][631]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/_HealthBar._HealthBar]
+[2024.02.15-14.11.57:033][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/_HealthBar]
+[2024.02.15-14.11.57:036][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/_HealthBar_Auto4
+[2024.02.15-14.11.57:036][631]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/_HealthBar_Auto4B4A97A084AFFD300DDC46DAF7C2B2052.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/_HealthBar_Auto4.uasset'
+[2024.02.15-14.11.57:036][631]LogFileHelpers: Auto-saving content packages took 0.060
+[2024.02.15-14.13.36:839][ 72]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.15-14.14.02:602][870]BlueprintLog: New page: Compile _HealthBar
+[2024.02.15-14.14.02:725][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.02.15-14.14.28:241][520]BlueprintLog: New page: Compile _HealthBar
+[2024.02.15-14.14.28:281][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Total job queries 3,630, among them cache hits 28 (0.77%)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Tracking 3,595 distinct input hashes that result in 2,535 distinct outputs (70.51%)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: RAM used: 59.85 MiB of 819.20 MiB budget. Usage: 7.31%
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Shaders Compiled: 3,595
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Jobs assigned 3,602, completed 3,595 (99.81%)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Average time worker was idle: 98.84 s
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Time job spent in pending queue: average 195.68 s, longest 439.37 s
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Job execution time: average 9.88 s, max 36.80 s
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Job life time (pending + execution): average 205.94 s, max 443.18
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 485.09 s
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Jobs were issued in 496 batches (only local compilation was used), average 7.26 jobs/batch
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Average processing rate: 7.41 jobs/sec
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Total thread time: 2,310.975 s
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Total thread preprocess time: 83.54 s
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Percentage time preprocessing: 3.61%
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Effective parallelization: 4.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.70 sec, max 7.66 sec, min 1.95 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.51 sec, max 5.06 sec, min 2.44 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.58 sec, max 3.12 sec, min 0.84 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.51 sec, max 1.51 sec, min 1.51 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.88% of total time (compiled  150 times, average 1.21 sec, max 2.25 sec, min 0.95 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.43% of total time (compiled  128 times, average 1.16 sec, max 1.76 sec, min 0.51 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.22% of total time (compiled  128 times, average 0.76 sec, max 1.85 sec, min 0.42 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 3.94% of total time (compiled   96 times, average 0.95 sec, max 2.14 sec, min 0.69 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.44% of total time (compiled   96 times, average 0.83 sec, max 1.72 sec, min 0.42 sec)
+[2024.02.15-14.14.47:248][136]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.17.39:941][ 87]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.17.40:072][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.15-14.17.47:580][777]LogViewport: Scene viewport resized to 756x515, mode Windowed.
+[2024.02.15-14.17.53:564][239]LogWindows: LaunchURL https://docs.unrealengine.com/5.2/en/Engine/Blueprints?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2024.02.15-14.18.02:386][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2024.02.15-14.18.02:387][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2024.02.15-14.18.02:504][576]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_0
+[2024.02.15-14.18.02:531][576]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_0
+[2024.02.15-14.18.02:551][576]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.15-14.18.02:881][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2024.02.15-14.18.02:881][595]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/Enemy.Enemy_C
+[2024.02.15-14.18.03:173][595]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_UAID_C4BDE57BA91B8ED901_1235526303
+[2024.02.15-14.18.03:176][595]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_UAID_C4BDE57BA91B8ED901_1235526303
+[2024.02.15-14.18.09:936][181]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.18.09:966][181]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.18.10:009][181]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.18.10:009][181]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.18.10:009][181]LogWorldPartition: Display: GetPartitionedActors took 553 us (total: 1 ms)
+[2024.02.15-14.18.10:010][181]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 3 ms)
+[2024.02.15-14.18.10:146][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-14.18.10:165][181]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:18:10)
+[2024.02.15-14.18.10:176][181]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.18.10:228][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052213s)
+[2024.02.15-14.18.10:228][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.052266s)
+[2024.02.15-14.18.10:230][181]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.18.10:267][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.18.10:287][181]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.18.10:371][181]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.18.10:371][181]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.18.10:371][181]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.18.10:373][181]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.18.10:409][181]LogWorldPartition: Display: WorldPartition initialize took 38 ms (total: 1.56 sec)
+[2024.02.15-14.18.10:410][181]LogPlayLevel: PIE: World Init took: (0.180467s)
+[2024.02.15-14.18.10:453][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.15-14.18.10:480][181]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.15-14.18.10:483][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.18.10:484][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.18.10:484][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.18.10:484][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.18.10:484][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.18.10:484][181]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.18.10:484][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.18.10:489][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.18.10:512][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.18.10:512][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.18.10:512][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.18.10:514][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.18.10:550][181]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.18.10:617][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.18.10:617][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.18.10:630][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.18.10:632][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.15-14.18.10:632][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.15-14.18.10:634][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.15-14.18.10:634][181]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.15-14.18.10:634][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.15-14.18.10:634][181]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2024.02.15-14.18.10:634][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.15-14.18.10:656][181]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=11
+[2024.02.15-14.18.10:697][181]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.18.10:753][181]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.18.10
+[2024.02.15-14.18.10:843][181]LogWorld: Bringing up level for play took: 0.144987
+[2024.02.15-14.18.10:943][181]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.02.15-14.18.11:261][181]PIE: Server logged in
+[2024.02.15-14.18.11:263][181]PIE: Play in editor total start time 1.306 seconds.
+[2024.02.15-14.18.17:400][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.18.17:400][615]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.18.17:438][615]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.18.17:446][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.18.17:477][615]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.18.17:559][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.18.17:575][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.18.17:615][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-14.18.17:643][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.15-14.18.17:655][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.15-14.18.17:656][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.15-14.18.17:660][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.18.17:835][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.02.15-14.18.17:915][616]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.15-14.18.22:253][791]LogViewport: Scene viewport resized to 756x521, mode Windowed.
+[2024.02.15-14.18.22:332][792]LogViewport: Scene viewport resized to 756x515, mode Windowed.
+[2024.02.15-14.18.24:297][954]LogSlate: Window '_HealthBar' being destroyed
+[2024.02.15-14.18.24:302][954]LogSlate: Window '_HealthBar' being destroyed
+[2024.02.15-14.18.24:693][954]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.18.24:693][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.18.24:698][954]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.18.24:698][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.18.41:403][291]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/_HealthBar._HealthBar
+[2024.02.15-14.18.41:403][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.18.41:403][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.18.41:418][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.18.41:418][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.19.26:993][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.19.26:998][746]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.19.26:999][746]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.19.26:999][746]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.19.26:999][746]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 1 ms)
+[2024.02.15-14.19.26:999][746]LogWorldPartition: Display: GenerateStreaming took 130 us (total: 3 ms)
+[2024.02.15-14.19.26:999][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-14.19.26:999][746]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:19:26)
+[2024.02.15-14.19.27:026][746]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.19.27:030][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003880s)
+[2024.02.15-14.19.27:030][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003913s)
+[2024.02.15-14.19.27:030][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.19.27:030][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.19.27:030][746]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.19.27:030][746]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.19.27:030][746]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.19.27:030][746]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.19.27:031][746]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.19.27:031][746]LogWorldPartition: Display: WorldPartition initialize took 854 us (total: 1.56 sec)
+[2024.02.15-14.19.27:031][746]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2024.02.15-14.19.27:078][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.02.15-14.19.27:080][746]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.15-14.19.27:080][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.19.27:080][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.19.27:080][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.19.27:080][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.19.27:080][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.19.27:080][746]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.19.27:080][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.19.27:080][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.19.27:080][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.19.27:080][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.19.27:080][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.19.27:082][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.19.27:098][746]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.19.27:098][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.19.27:098][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.19.27:098][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.19.27:099][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.15-14.19.27:099][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.15-14.19.27:114][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.15-14.19.27:115][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.15-14.19.27:115][746]LogInit: FAudioDevice initialized with ID 12.
+[2024.02.15-14.19.27:115][746]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2024.02.15-14.19.27:115][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.15-14.19.27:117][746]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.19.27:131][746]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.19.27
+[2024.02.15-14.19.27:132][746]LogWorld: Bringing up level for play took: 0.014637
+[2024.02.15-14.19.27:133][746]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.02.15-14.19.27:164][746]PIE: Server logged in
+[2024.02.15-14.19.27:165][746]PIE: Play in editor total start time 0.167 seconds.
+[2024.02.15-14.19.53:347][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.19.53:347][615]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.19.53:347][615]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.19.53:347][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.19.53:347][615]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.19.53:353][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.19.53:355][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.19.53:460][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-14.19.53:460][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.15-14.19.53:461][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.15-14.19.53:462][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.15-14.19.53:465][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.19.53:467][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.15-14.19.53:516][616]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.02.15-14.20.02:284][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-14.20.02:420][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Total job queries 3,640, among them cache hits 30 (0.82%)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Tracking 3,608 distinct input hashes that result in 2,544 distinct outputs (70.51%)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: RAM used: 60.11 MiB of 819.20 MiB budget. Usage: 7.34%
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Shaders Compiled: 3,608
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Jobs assigned 3,610, completed 3,608 (99.94%)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Average time worker was idle: 102.91 s
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Time job spent in pending queue: average 195.25 s, longest 439.37 s
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Job execution time: average 9.85 s, max 36.80 s
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Job life time (pending + execution): average 205.20 s, max 443.18
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 487.32 s
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Jobs were issued in 504 batches (only local compilation was used), average 7.16 jobs/batch
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Average processing rate: 7.40 jobs/sec
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Total thread time: 2,319.115 s
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Total thread preprocess time: 83.916 s
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Percentage time preprocessing: 3.62%
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Effective parallelization: 4.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.70 sec, max 7.66 sec, min 1.95 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.51 sec, max 5.06 sec, min 2.44 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.58 sec, max 3.12 sec, min 0.84 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.51 sec, max 1.51 sec, min 1.51 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.85% of total time (compiled  150 times, average 1.21 sec, max 2.25 sec, min 0.95 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.40% of total time (compiled  128 times, average 1.16 sec, max 1.76 sec, min 0.51 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.20% of total time (compiled  128 times, average 0.76 sec, max 1.85 sec, min 0.42 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 3.92% of total time (compiled   96 times, average 0.95 sec, max 2.14 sec, min 0.69 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.42% of total time (compiled   96 times, average 0.83 sec, max 1.72 sec, min 0.42 sec)
+[2024.02.15-14.22.36:818][105]LogShaderCompilers: Display: ================================================
+[2024.02.15-14.24.00:873][ 62]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.24.00:984][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.15-14.24.14:080][477]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.24.14:137][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.15-14.24.15:864][643]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.24.15:867][643]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.24.15:868][643]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.24.15:868][643]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.24.15:868][643]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 1 ms)
+[2024.02.15-14.24.15:868][643]LogWorldPartition: Display: GenerateStreaming took 131 us (total: 4 ms)
+[2024.02.15-14.24.15:868][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-14.24.15:869][643]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:24:15)
+[2024.02.15-14.24.15:906][643]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.24.15:914][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007620s)
+[2024.02.15-14.24.15:914][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007663s)
+[2024.02.15-14.24.15:914][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.24.15:914][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.24.15:915][643]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.24.15:915][643]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.24.15:915][643]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.24.15:915][643]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.24.15:917][643]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.24.15:917][643]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.56 sec)
+[2024.02.15-14.24.15:917][643]LogPlayLevel: PIE: World Init took: (0.003113s)
+[2024.02.15-14.24.15:940][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.15-14.24.15:942][643]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.15-14.24.15:942][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.24.15:942][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.24.15:942][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.24.15:942][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.24.15:942][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.24.15:942][643]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.24.15:942][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.24.15:942][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.24.15:942][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.24.15:942][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.24.15:942][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.24.15:944][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.24.15:959][643]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.24.15:959][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.24.15:959][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.24.15:959][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.24.15:960][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.15-14.24.15:960][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.15-14.24.15:961][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.15-14.24.15:961][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.15-14.24.15:961][643]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.15-14.24.15:961][643]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2024.02.15-14.24.15:961][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.15-14.24.15:963][643]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.24.15:966][643]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.24.15
+[2024.02.15-14.24.15:967][643]LogWorld: Bringing up level for play took: 0.003072
+[2024.02.15-14.24.15:968][643]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.15-14.24.15:970][643]PIE: Server logged in
+[2024.02.15-14.24.15:970][643]PIE: Play in editor total start time 0.103 seconds.
+[2024.02.15-14.24.22:666][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.24.22:666][422]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.24.22:667][422]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.24.22:667][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.24.22:667][422]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.24.22:673][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.24.22:677][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.24.22:699][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-14.24.22:699][422]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.15-14.24.22:699][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.15-14.24.22:701][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.15-14.24.22:703][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.24.22:705][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.15-14.24.22:753][423]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.15-14.25.47:514][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.02.15-14.25.47:517][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto5
+[2024.02.15-14.25.47:517][505]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/2FJPSLFYEBHTZC08QX3VR2_Auto5CF606C614731944152EFBE946D465744.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto5.uasset'
+[2024.02.15-14.25.47:537][505]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2024.02.15-14.25.47:537][505]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2024.02.15-14.25.47:537][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/Enemy] ([2] browsable assets)...
+[2024.02.15-14.25.47:616][505]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy]
+[2024.02.15-14.25.47:616][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/Enemy]
+[2024.02.15-14.25.47:663][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto5
+[2024.02.15-14.25.47:663][505]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemy_Auto51F2C09C145A96A39D2B7209C3F470246.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/Enemy_Auto5.uasset'
+[2024.02.15-14.25.47:664][505]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/_HealthBar] ([2] browsable assets)...
+[2024.02.15-14.25.47:669][505]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/_HealthBar._HealthBar]
+[2024.02.15-14.25.47:669][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/_HealthBar]
+[2024.02.15-14.25.47:672][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/_HealthBar_Auto5
+[2024.02.15-14.25.47:672][505]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/_HealthBar_Auto5DF7D75574DA75254356C259380CADCBD.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/_HealthBar_Auto5.uasset'
+[2024.02.15-14.25.47:673][505]LogFileHelpers: Auto-saving content packages took 0.137
+[2024.02.15-14.26.47:789][686]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.26.47:885][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.15-14.26.50:266][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.26.50:341][874]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2024.02.15-14.26.50:341][874]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemy684084DE4257547F3A1140B2217222CE.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2024.02.15-14.26.50:349][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 3.27 sec)
+[2024.02.15-14.26.50:353][874]AssetCheck: New page: Asset Save: Enemy
+[2024.02.15-14.26.50:353][874]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.26.51:851][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.26.51:940][ 26]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/_HealthBar
+[2024.02.15-14.26.51:940][ 26]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/_HealthBarC06FEF4345A9F1825797B0A2C7307CF1.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/_HealthBar.uasset'
+[2024.02.15-14.26.51:954][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.37 sec)
+[2024.02.15-14.26.51:959][ 26]AssetCheck: New page: Asset Save: _HealthBar
+[2024.02.15-14.26.51:959][ 26]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/_HealthBar._HealthBar
+[2024.02.15-14.26.54:411][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.26.54:427][300]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.26.54:428][300]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.26.54:428][300]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.26.54:428][300]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 1 ms)
+[2024.02.15-14.26.54:428][300]LogWorldPartition: Display: GenerateStreaming took 136 us (total: 4 ms)
+[2024.02.15-14.26.54:428][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-14.26.54:428][300]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:26:54)
+[2024.02.15-14.26.54:456][300]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.26.54:464][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007708s)
+[2024.02.15-14.26.54:464][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007750s)
+[2024.02.15-14.26.54:464][300]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.26.54:464][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.26.54:465][300]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.26.54:465][300]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.26.54:465][300]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.26.54:465][300]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.26.54:467][300]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.26.54:467][300]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.57 sec)
+[2024.02.15-14.26.54:467][300]LogPlayLevel: PIE: World Init took: (0.003097s)
+[2024.02.15-14.26.54:491][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.15-14.26.54:492][300]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.02.15-14.26.54:493][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.26.54:493][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.26.54:493][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.26.54:493][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.26.54:493][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.26.54:493][300]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.26.54:493][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.26.54:493][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.26.54:493][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.26.54:493][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.26.54:493][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.26.54:495][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.26.54:511][300]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.26.54:511][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.26.54:511][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.26.54:511][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.26.54:512][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.02.15-14.26.54:512][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.02.15-14.26.54:513][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.02.15-14.26.54:513][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.02.15-14.26.54:513][300]LogInit: FAudioDevice initialized with ID 14.
+[2024.02.15-14.26.54:513][300]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.02.15-14.26.54:513][300]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.15-14.26.54:515][300]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.26.54:518][300]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.26.54
+[2024.02.15-14.26.54:518][300]LogWorld: Bringing up level for play took: 0.003179
+[2024.02.15-14.26.54:520][300]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.02.15-14.26.54:531][300]PIE: Server logged in
+[2024.02.15-14.26.54:532][300]PIE: Play in editor total start time 0.105 seconds.
+[2024.02.15-14.27.03:367][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.27.03:367][328]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.27.03:367][328]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.27.03:368][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.27.03:368][328]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.27.03:371][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.27.03:374][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.27.03:391][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-14.27.03:391][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.15-14.27.03:391][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.15-14.27.03:392][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.15-14.27.03:396][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.27.03:398][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.15-14.27.03:449][329]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.02.15-14.27.56:898][803]LogDerivedDataCache: C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.182 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1307 files in 2039 folders with total size 75 MiB.
+[2024.02.15-14.30.11:987][919]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.30.12:068][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.15-14.30.17:032][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.30.17:108][443]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2024.02.15-14.30.17:108][443]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemy323EB0524C70BB3B8C4665B1CC69A7E3.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2024.02.15-14.30.17:114][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 3.46 sec)
+[2024.02.15-14.30.17:117][443]AssetCheck: New page: Asset Save: Enemy
+[2024.02.15-14.30.17:117][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.30.18:885][638]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.30.18:888][638]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.30.18:902][638]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.30.18:902][638]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.30.18:902][638]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 1 ms)
+[2024.02.15-14.30.18:903][638]LogWorldPartition: Display: GenerateStreaming took 199 us (total: 4 ms)
+[2024.02.15-14.30.18:903][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-14.30.18:903][638]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:30:18)
+[2024.02.15-14.30.18:937][638]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.30.18:940][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003539s)
+[2024.02.15-14.30.18:940][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003573s)
+[2024.02.15-14.30.18:940][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.30.18:940][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.30.18:941][638]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.30.18:941][638]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.30.18:941][638]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.30.18:941][638]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.30.18:942][638]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.30.18:942][638]LogWorldPartition: Display: WorldPartition initialize took 911 us (total: 1.57 sec)
+[2024.02.15-14.30.18:942][638]LogPlayLevel: PIE: World Init took: (0.001733s)
+[2024.02.15-14.30.18:964][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.15-14.30.18:966][638]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.15-14.30.18:966][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.30.18:966][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.30.18:966][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.30.18:966][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.30.18:966][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.30.18:966][638]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.30.18:966][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.30.18:966][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.30.18:966][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.30.18:966][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.30.18:966][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.30.18:967][638]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.30.18:984][638]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.30.18:984][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.30.18:984][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.30.18:984][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.30.18:985][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.15-14.30.18:985][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.15-14.30.18:986][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.15-14.30.18:986][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.15-14.30.18:986][638]LogInit: FAudioDevice initialized with ID 15.
+[2024.02.15-14.30.18:986][638]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2024.02.15-14.30.18:986][638]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.15-14.30.18:988][638]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.30.18:991][638]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.30.18
+[2024.02.15-14.30.18:992][638]LogWorld: Bringing up level for play took: 0.003285
+[2024.02.15-14.30.18:993][638]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.15-14.30.18:995][638]PIE: Server logged in
+[2024.02.15-14.30.18:996][638]PIE: Play in editor total start time 0.108 seconds.
+[2024.02.15-14.30.26:978][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.30.26:978][526]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.30.26:978][526]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.30.26:979][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.30.26:979][526]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.30.26:990][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.30.26:993][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.30.27:011][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-14.30.27:011][526]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.15-14.30.27:011][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.15-14.30.27:012][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.15-14.30.27:015][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.30.27:017][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.15-14.30.27:070][527]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.15-14.30.32:429][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_ShotgunComponent.BP_ShotgunComponent
+[2024.02.15-14.30.32:429][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.30.32:429][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.36.04:910][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.15-14.36.04:913][312]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto6
+[2024.02.15-14.36.04:913][312]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/2FJPSLFYEBHTZC08QX3VR2_Auto66353648F4DD576EF7A91EFA2A271A080.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto6.uasset'
+[2024.02.15-14.36.04:913][312]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2024.02.15-14.36.04:913][312]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.02.15-14.39.11:915][932]LogEditorTransaction: Undo Move Node
+[2024.02.15-14.39.12:971][995]LogEditorTransaction: Undo Add Node
+[2024.02.15-14.40.20:577][341]BlueprintLog: New page: Compile BP_ShotgunComponent
+[2024.02.15-14.40.20:678][341]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] This blueprint (self) is not a Enemy_C, therefore ' Target ' must have a connection.
+[2024.02.15-14.40.20:681][341]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2024.02.15-14.40.20:682][341]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] Variable node  Set Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.02.15-14.40.20:683][341]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.02.15-14.40.20:716][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.15-14.40.32:595][455]BlueprintLog: New page: Compile BP_ShotgunComponent
+[2024.02.15-14.40.32:601][455]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2024.02.15-14.40.32:602][455]LogBlueprint: Error: [AssetLog] D:\documents\Uni work\Unity\Github\Experimental-Games\MyProject3\Content\FirstPerson\Blueprints\BP_ShotgunComponent.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.02.15-14.40.32:624][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.15-14.41.52:069][694]BlueprintLog: New page: Compile BP_ShotgunComponent
+[2024.02.15-14.41.52:101][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.02.15-14.42.04:398][485]LogViewport: Scene viewport resized to 919x896, mode Windowed.
+[2024.02.15-14.42.05:996][606]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.42.06:000][606]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.42.06:002][606]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.42.06:002][606]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.42.06:002][606]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 1 ms)
+[2024.02.15-14.42.06:002][606]LogWorldPartition: Display: GenerateStreaming took 143 us (total: 4 ms)
+[2024.02.15-14.42.06:002][606]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.15-14.42.06:003][606]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2024.02.15-14.42.06:157][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.15-14.42.06:158][606]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2024.02.15-14.42.06:158][606]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:42:06)
+[2024.02.15-14.42.06:158][606]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.42.06:162][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004222s)
+[2024.02.15-14.42.06:162][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004247s)
+[2024.02.15-14.42.06:163][606]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.42.06:163][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.42.06:163][606]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.42.06:163][606]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.42.06:163][606]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.42.06:163][606]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.42.06:164][606]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.42.06:164][606]LogWorldPartition: Display: WorldPartition initialize took 973 us (total: 1.57 sec)
+[2024.02.15-14.42.06:164][606]LogPlayLevel: PIE: World Init took: (0.001889s)
+[2024.02.15-14.42.06:193][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.15-14.42.06:194][606]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.15-14.42.06:194][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.42.06:194][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.42.06:194][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.42.06:194][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.42.06:194][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.42.06:194][606]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.42.06:194][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.42.06:194][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.42.06:194][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.42.06:194][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.42.06:194][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.42.06:210][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.42.06:226][606]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.42.06:227][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.42.06:227][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.42.06:227][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.42.06:227][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.02.15-14.42.06:227][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.02.15-14.42.06:228][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.02.15-14.42.06:229][606]LogInit: FAudioDevice initialized with ID 16.
+[2024.02.15-14.42.06:229][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.02.15-14.42.06:229][606]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2024.02.15-14.42.06:229][606]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.15-14.42.06:231][606]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.42.06:234][606]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.42.06
+[2024.02.15-14.42.06:234][606]LogWorld: Bringing up level for play took: 0.003339
+[2024.02.15-14.42.06:236][606]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.02.15-14.42.06:238][606]PIE: Server logged in
+[2024.02.15-14.42.06:238][606]PIE: Play in editor total start time 0.238 seconds.
+[2024.02.15-14.42.07:899][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.42.07:899][766]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.42.07:899][766]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.42.07:899][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.42.07:899][766]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.42.07:912][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.42.07:915][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.42.07:932][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.42.07:932][766]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.15-14.42.07:932][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.15-14.42.07:934][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.15-14.42.07:939][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.15-14.42.08:006][767]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.02.15-14.42.12:245][259]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.42.12:249][259]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.42.12:250][259]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.42.12:250][259]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.42.12:250][259]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 1 ms)
+[2024.02.15-14.42.12:250][259]LogWorldPartition: Display: GenerateStreaming took 128 us (total: 4 ms)
+[2024.02.15-14.42.12:251][259]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.15-14.42.12:251][259]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2024.02.15-14.42.12:339][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.15-14.42.12:340][259]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (1 blueprints)
+[2024.02.15-14.42.12:340][259]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:42:12)
+[2024.02.15-14.42.12:368][259]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.42.12:372][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003646s)
+[2024.02.15-14.42.12:372][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003673s)
+[2024.02.15-14.42.12:372][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.42.12:372][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.42.12:375][259]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.42.12:376][259]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.42.12:376][259]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.42.12:376][259]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.42.12:377][259]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.42.12:377][259]LogWorldPartition: Display: WorldPartition initialize took 956 us (total: 1.57 sec)
+[2024.02.15-14.42.12:377][259]LogPlayLevel: PIE: World Init took: (0.004600s)
+[2024.02.15-14.42.12:394][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.15-14.42.12:395][259]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.02.15-14.42.12:395][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.42.12:395][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.42.12:395][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.42.12:395][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.42.12:395][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.42.12:395][259]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.42.12:395][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.42.12:395][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.42.12:396][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.42.12:396][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.42.12:396][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.42.12:398][259]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.42.12:423][259]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.42.12:423][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.42.12:423][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.42.12:423][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.42.12:424][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.02.15-14.42.12:424][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.02.15-14.42.12:426][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.02.15-14.42.12:426][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.02.15-14.42.12:426][259]LogInit: FAudioDevice initialized with ID 17.
+[2024.02.15-14.42.12:426][259]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonMap'.
+[2024.02.15-14.42.12:426][259]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.15-14.42.12:429][259]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.42.12:432][259]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.42.12
+[2024.02.15-14.42.12:432][259]LogWorld: Bringing up level for play took: 0.003527
+[2024.02.15-14.42.12:434][259]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.02.15-14.42.12:436][259]PIE: Server logged in
+[2024.02.15-14.42.12:436][259]PIE: Play in editor total start time 0.187 seconds.
+[2024.02.15-14.42.13:809][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.42.13:809][405]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.42.13:809][405]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.42.13:810][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.42.13:810][405]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.42.13:835][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.42.13:838][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.42.13:876][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.42.13:877][405]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.15-14.42.13:877][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.15-14.42.13:878][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.15-14.42.13:883][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.15-14.42.13:935][406]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.02.15-14.42.21:914][ 45]LogViewport: Scene viewport resized to 1247x584, mode Windowed.
+[2024.02.15-14.42.22:381][ 45]LogViewport: Scene viewport resized to 1885x902, mode Windowed.
+[2024.02.15-14.42.23:892][211]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.42.23:950][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.15-14.46.34:916][761]LogViewport: Scene viewport resized to 752x686, mode Windowed.
+[2024.02.15-14.46.39:365][154]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.46.39:433][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.02.15-14.46.40:797][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.46.40:851][272]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2024.02.15-14.46.40:851][272]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/EnemyC981A1E64098B24174CE74BED62E3217.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2024.02.15-14.46.40:856][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 3.52 sec)
+[2024.02.15-14.46.40:861][272]AssetCheck: New page: Asset Save: Enemy
+[2024.02.15-14.46.40:861][272]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.48.09:869][533]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.48.09:929][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.02.15-14.48.11:203][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.48.11:310][669]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2024.02.15-14.48.11:311][669]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/EnemyADADBF5E4B04B1E61AAE698E17BEA29D.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2024.02.15-14.48.11:320][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 3.63 sec)
+[2024.02.15-14.48.11:324][669]AssetCheck: New page: Asset Save: Enemy
+[2024.02.15-14.48.11:324][669]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.48.58:036][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.15-14.48.58:039][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto7
+[2024.02.15-14.48.58:039][688]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/EAHCBN229IT8APJO305AH5_Auto76785519C4F3CEAF1C3870580B9D5A021.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto7.uasset'
+[2024.02.15-14.48.58:063][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto7
+[2024.02.15-14.48.58:063][688]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/2FJPSLFYEBHTZC08QX3VR2_Auto700E75D77406A328E68D252A8C94BE1E0.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2_Auto7.uasset'
+[2024.02.15-14.48.58:064][688]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.047
+[2024.02.15-14.48.58:064][688]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2024.02.15-14.48.58:064][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle] ([2] browsable assets)...
+[2024.02.15-14.48.58:064][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle]
+[2024.02.15-14.48.58:068][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto7
+[2024.02.15-14.48.58:068][688]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/BP_Pickup_Rifle_Auto77539317243F5757FD2D84D9780C797E7.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto7.uasset'
+[2024.02.15-14.48.58:069][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_ShotgunComponent] ([2] browsable assets)...
+[2024.02.15-14.48.58:069][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_ShotgunComponent]
+[2024.02.15-14.48.58:094][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_ShotgunComponent_Auto7
+[2024.02.15-14.48.58:094][688]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/BP_ShotgunComponent_Auto7400FD23F40A3606C0B32058819C4E29B.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_ShotgunComponent_Auto7.uasset'
+[2024.02.15-14.48.58:094][688]LogFileHelpers: Auto-saving content packages took 0.030
+[2024.02.15-14.49.07:861][794]LogContentBrowser: Attempting asset rename: _HealthBar -> WB_HealthBar
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.SKEL_WB_HealthBar_C' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.WB_HealthBar_C' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.WB_HealthBar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.WB_HealthBar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.WB_HealthBar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.SKEL_WB_HealthBar_C:PreConstruct' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.SKEL_WB_HealthBar_C:Construct' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:384][794]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WB_HealthBar.SKEL_WB_HealthBar_C:Tick' ref from Metadata '/Game/FirstPerson/Blueprints/_HealthBar.PackageMetaData'
+[2024.02.15-14.49.09:423][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.49.09:533][794]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2024.02.15-14.49.09:533][794]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemy120067704C796CF46A2C65BBD11E4C86.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2024.02.15-14.49.09:535][794]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WB_HealthBar
+[2024.02.15-14.49.09:535][794]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/WB_HealthBarA57ED61641C8A04B9284C9997E11F37A.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_HealthBar.uasset'
+[2024.02.15-14.49.09:543][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 3.75 sec)
+[2024.02.15-14.49.09:625][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.02.15-14.49.09:645][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.15-14.49.09:668][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.15-14.49.09:671][794]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.15-14.49.09:671][794]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.49.09:671][794]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WB_HealthBar.WB_HealthBar
+[2024.02.15-14.49.17:486][656]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.49.17:536][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.15-14.51.09:792][227]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.51.09:857][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.15-14.51.13:853][655]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.51.13:908][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.02.15-14.51.43:768][ 14]BlueprintLog: New page: Compile WB_HealthBar
+[2024.02.15-14.51.43:855][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.15-14.51.59:153][519]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.51.59:205][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.15-14.52.08:466][520]LogViewport: Scene viewport resized to 875x686, mode Windowed.
+[2024.02.15-14.52.54:341][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.52.54:406][142]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WB_HealthBar
+[2024.02.15-14.52.54:406][142]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/WB_HealthBar02A2A64E475658C9DFFA7F871B9939F1.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_HealthBar.uasset'
+[2024.02.15-14.52.54:415][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.82 sec)
+[2024.02.15-14.52.54:420][142]AssetCheck: New page: Asset Save: WB_HealthBar
+[2024.02.15-14.52.54:420][142]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WB_HealthBar.WB_HealthBar
+[2024.02.15-14.52.55:520][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.52.55:582][247]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2024.02.15-14.52.55:583][247]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/EnemyB3A131634BB288FDF69DE59F71B6E285.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2024.02.15-14.52.55:588][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.89 sec)
+[2024.02.15-14.52.55:595][247]AssetCheck: New page: Asset Save: Enemy
+[2024.02.15-14.52.55:595][247]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.54.41:707][986]BlueprintLog: New page: Compile Enemy
+[2024.02.15-14.54.41:767][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.02.15-14.54.44:240][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-14.54.44:308][245]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Enemy
+[2024.02.15-14.54.44:309][245]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/Enemy6514A45A41262B33092C14871EC864E5.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/Enemy.uasset'
+[2024.02.15-14.54.44:314][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.97 sec)
+[2024.02.15-14.54.44:318][245]AssetCheck: New page: Asset Save: Enemy
+[2024.02.15-14.54.44:318][245]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Enemy.Enemy
+[2024.02.15-14.54.49:952][863]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-14.54.49:955][863]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-14.54.49:957][863]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.15-14.54.49:957][863]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.15-14.54.49:957][863]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 1 ms)
+[2024.02.15-14.54.49:957][863]LogWorldPartition: Display: GenerateStreaming took 132 us (total: 4 ms)
+[2024.02.15-14.54.49:957][863]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.15-14.54.49:958][863]LogPlayLevel: [PlayLevel] Compiling BP_ShotgunComponent before play...
+[2024.02.15-14.54.49:973][863]LogPlayLevel: [PlayLevel] Compiling BP_Pickup_Rifle before play...
+[2024.02.15-14.54.50:024][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.15-14.54.50:025][863]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (2 blueprints)
+[2024.02.15-14.54.50:025][863]PIE: New page: PIE session: FirstPersonMap (15 Feb 2024, 14:54:50)
+[2024.02.15-14.54.50:025][863]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.54.50:029][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003789s)
+[2024.02.15-14.54.50:029][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003817s)
+[2024.02.15-14.54.50:029][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-14.54.50:029][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-14.54.50:030][863]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.02.15-14.54.50:030][863]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-14.54.50:030][863]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-14.54.50:030][863]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.15-14.54.50:031][863]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.02.15-14.54.50:031][863]LogWorldPartition: Display: WorldPartition initialize took 885 us (total: 1.57 sec)
+[2024.02.15-14.54.50:031][863]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2024.02.15-14.54.50:066][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.15-14.54.50:067][863]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.02.15-14.54.50:067][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-14.54.50:067][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-14.54.50:067][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-14.54.50:067][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-14.54.50:067][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-14.54.50:067][863]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.15-14.54.50:067][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-14.54.50:067][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-14.54.50:068][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-14.54.50:068][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-14.54.50:068][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-14.54.50:069][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-14.54.50:086][863]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR Slipstream Multi-Device Receiver)
+[2024.02.15-14.54.50:086][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-14.54.50:086][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-14.54.50:086][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-14.54.50:087][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.02.15-14.54.50:087][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.02.15-14.54.50:088][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.02.15-14.54.50:088][863]LogInit: FAudioDevice initialized with ID 18.
+[2024.02.15-14.54.50:088][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.02.15-14.54.50:088][863]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2024.02.15-14.54.50:088][863]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.02.15-14.54.50:090][863]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.15-14.54.50:094][863]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.02.15-14.54.50
+[2024.02.15-14.54.50:094][863]LogWorld: Bringing up level for play took: 0.003611
+[2024.02.15-14.54.50:096][863]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.02.15-14.54.50:097][863]PIE: Server logged in
+[2024.02.15-14.54.50:098][863]PIE: Play in editor total start time 0.142 seconds.
+[2024.02.15-14.55.05:549][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.55.05:549][663]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.02.15-14.55.05:549][663]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-14.55.05:550][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.55.05:550][663]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.02.15-14.55.05:558][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-14.55.05:582][663]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.02.15-14.55.07:003][663]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.421 s
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: === Handled ensure: ===
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: 
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2307] 
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: 
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: Stack: 
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff9258578b2 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff92586794e UnrealEditor-Engine.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff9257b73fa UnrealEditor-Engine.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff9215217a9 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff922254564 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff921c0ba99 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff92269edc6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff61024875f UnrealEditor.exe!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff61026473c UnrealEditor.exe!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff61026482a UnrealEditor.exe!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff6102674f0 UnrealEditor.exe!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff61027a4c4 UnrealEditor.exe!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff61027d996 UnrealEditor.exe!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff9cc857344 KERNEL32.DLL!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: [Callstack] 0x00007ff9ce6226b1 ntdll.dll!UnknownFunction []
+[2024.02.15-14.55.07:012][663]LogOutputDevice: Error: 
+[2024.02.15-14.55.07:038][663]LogStats:                SubmitErrorReport -  0.000 s
+[2024.02.15-14.55.36:290][663]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [28951ms] waiting for h/w. InstanceID=18
+[2024.02.15-14.55.36:291][663]LogStats:                    SendNewReport - 29.253 s
+[2024.02.15-14.55.36:291][663]LogStats:             FDebug::EnsureFailed - 30.708 s
+[2024.02.15-14.55.36:295][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-14.55.36:323][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-14.55.36:324][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.02.15-14.55.36:324][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.15-14.55.36:324][663]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24192
+[2024.02.15-14.55.36:334][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.15-14.55.36:339][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.15-14.55.36:370][664]LogPlayLevel: Display: Destroying online subsystem :Context_38
