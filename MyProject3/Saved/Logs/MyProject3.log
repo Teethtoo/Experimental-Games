@@ -3544,3 +3544,9 @@ Script Stack (0 frames) :
 [2024.02.15-17.14.10:691][571]LogFileHelpers: Auto-saving content packages took 0.068
 [2024.02.15-17.21.54:717][ 44]BlueprintLog: New page: Compile WB_door
 [2024.02.15-17.21.54:750][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.02.15-17.22.06:248][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-17.22.06:350][443]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WB_door
+[2024.02.15-17.22.06:350][443]LogSavePackage: Moving '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Saved/WB_doorD77B8F764335020378E2D79E5333E756.tmp' to '../../../../../documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_door.uasset'
+[2024.02.15-17.22.06:372][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 4.61 sec)
+[2024.02.15-17.22.06:379][443]AssetCheck: New page: Asset Save: WB_door
+[2024.02.15-17.22.06:379][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/WB_door.WB_door
