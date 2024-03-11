@@ -4832,3 +4832,174 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.03.11-15.27.44:047][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto2
 [2024.03.11-15.27.44:047][ 29]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/User_Healthbar_Auto2A27FBA2E4B7E0436248BE3BD282ACFCD.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto2.uasset'
 [2024.03.11-15.27.44:048][ 29]LogFileHelpers: Auto-saving content packages took 0.075
+[2024.03.11-15.35.17:481][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.11-15.35.17:488][450]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.11-15.35.17:491][450]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.11-15.35.17:491][450]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.11-15.35.17:491][450]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 235 us)
+[2024.03.11-15.35.17:491][450]LogWorldPartition: Display: GenerateStreaming took 235 us (total: 6 ms)
+[2024.03.11-15.35.17:492][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.11-15.35.17:492][450]PIE: New page: PIE session: FirstPersonMap (11 Mar 2024, 15:35:17)
+[2024.03.11-15.35.17:527][450]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.03.11-15.35.17:534][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007703s)
+[2024.03.11-15.35.17:535][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007751s)
+[2024.03.11-15.35.17:535][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-15.35.17:535][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.11-15.35.17:535][450]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.03.11-15.35.17:536][450]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.11-15.35.17:536][450]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.11-15.35.17:536][450]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.11-15.35.17:538][450]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.03.11-15.35.17:538][450]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.64 sec)
+[2024.03.11-15.35.17:538][450]LogPlayLevel: PIE: World Init took: (0.003100s)
+[2024.03.11-15.35.17:564][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.11-15.35.17:566][450]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.03.11-15.35.17:566][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.11-15.35.17:566][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.11-15.35.17:566][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.11-15.35.17:566][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.11-15.35.17:566][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.11-15.35.17:566][450]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.11-15.35.17:566][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.11-15.35.17:566][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.11-15.35.17:567][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.11-15.35.17:567][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.11-15.35.17:567][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.11-15.35.17:569][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.11-15.35.17:585][450]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.03.11-15.35.17:585][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.11-15.35.17:585][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.11-15.35.17:585][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.11-15.35.17:586][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.03.11-15.35.17:586][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.03.11-15.35.17:587][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.03.11-15.35.17:587][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.03.11-15.35.17:587][450]LogInit: FAudioDevice initialized with ID 30.
+[2024.03.11-15.35.17:587][450]LogAudio: Display: Audio Device (ID: 30) registered with world 'FirstPersonMap'.
+[2024.03.11-15.35.17:587][450]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.03.11-15.35.17:590][450]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.11-15.35.17:607][450]PIE: Warning: Invalid Simulate Options: Body (Enemy.CharacterMesh0 SKM_Manny) is set to simulate physics but Collision Enabled is incompatible
+[2024.03.11-15.35.17:607][450]PIE: Warning: Invalid Simulate Options: Body (Enemy.CharacterMesh0 SKM_Manny) is set to simulate physics but Collision Enabled is incompatible
+[2024.03.11-15.35.17:607][450]PIE: Warning: Invalid Simulate Options: Body (Enemy.CharacterMesh0 SKM_Manny) is set to simulate physics but Collision Enabled is incompatible
+[2024.03.11-15.35.17:607][450]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.03.11-15.35.17
+[2024.03.11-15.35.17:608][450]LogWorld: Bringing up level for play took: 0.017838
+[2024.03.11-15.35.17:610][450]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.03.11-15.35.17:615][450]PIE: Server logged in
+[2024.03.11-15.35.17:615][450]PIE: Play in editor total start time 0.126 seconds.
+[2024.03.11-15.35.17:634][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:635][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:636][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:636][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:637][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:637][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:637][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:638][450]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:647][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:647][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:648][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:648][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:649][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:649][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:649][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.17:649][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.11-15.35.23:228][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.11-15.35.23:228][106]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.03.11-15.35.23:228][106]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.35.23:229][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.35.23:229][106]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.03.11-15.35.23:260][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.11-15.35.23:265][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.35.23:293][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.11-15.35.23:294][106]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.03.11-15.35.23:294][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.03.11-15.35.23:296][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.03.11-15.35.23:300][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.11-15.35.23:304][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.11-15.35.23:457][107]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.03.11-15.35.26:392][358]LogSlate: Window 'Message Log' being destroyed
+[2024.03.11-15.35.26:407][358]LogSlate: Window 'Message Log' being destroyed
+[2024.03.11-15.39.27:414][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.11-15.39.27:418][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.032
+[2024.03.11-15.39.27:418][385]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.03.11-15.39.27:434][385]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.03.11-15.39.27:434][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.03.11-15.39.27:449][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2024.03.11-15.39.27:450][385]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/BP_FirstPersonCharacter_Auto326874650426864081C3FA1B79204DE6E.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2024.03.11-15.39.27:452][385]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/User_Healthbar] ([2] browsable assets)...
+[2024.03.11-15.39.27:454][385]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/User_Healthbar.User_Healthbar]
+[2024.03.11-15.39.27:454][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/User_Healthbar]
+[2024.03.11-15.39.27:460][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto3
+[2024.03.11-15.39.27:461][385]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/User_Healthbar_Auto3A024FBC449D0C3F683EB8BAA3C890393.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto3.uasset'
+[2024.03.11-15.39.27:462][385]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.03.11-15.41.23:194][835]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.03.11-15.41.23:304][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.11-15.41.57:075][815]BlueprintLog: New page: Compile User_Healthbar
+[2024.03.11-15.41.57:181][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.11-15.44.29:080][176]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.03.11-15.44.29:197][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.11-15.44.30:094][231]LogSlate: Window 'User_Healthbar' being destroyed
+[2024.03.11-15.44.30:097][231]LogSlate: Window 'User_Healthbar' being destroyed
+[2024.03.11-15.44.30:102][231]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.44.30:102][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.44.30:192][231]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.11-15.44.30:192][231]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.44.30:192][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.44.30:256][231]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.11-15.44.30:256][231]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.44.30:257][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.44.30:354][231]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.44.30:354][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.44.30:361][231]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.44.30:362][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.44.34:527][513]LogSlate: Window 'WB_HealthBar' being destroyed
+[2024.03.11-15.44.34:530][513]LogSlate: Window 'WB_HealthBar' being destroyed
+[2024.03.11-15.44.34:584][513]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.44.34:584][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.44.34:591][513]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.03.11-15.44.34:591][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.11-15.44.36:598][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.11-15.44.36:633][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.11-15.44.37:873][724]LogSlate: Window 'Save Content' being destroyed
+[2024.03.11-15.44.37:899][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-15.44.37:964][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.03.11-15.44.37:979][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.03.11-15.44.37:980][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/BP_FirstPersonCharacterC4A107B8415D77B6553DC5A362314C7E.tmp' to 'D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.03.11-15.44.37:981][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Pickup_Rifle" FILE="D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset" SILENT=true
+[2024.03.11-15.44.37:988][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Rifle
+[2024.03.11-15.44.37:989][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/BP_Pickup_Rifle22282B614CF36E944C16DF9CF0125493.tmp' to 'D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset'
+[2024.03.11-15.44.37:990][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_ShotgunComponent" FILE="D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_ShotgunComponent.uasset" SILENT=true
+[2024.03.11-15.44.38:009][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_ShotgunComponent
+[2024.03.11-15.44.38:009][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/BP_ShotgunComponent883ABB824083C248847F329026F80883.tmp' to 'D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_ShotgunComponent.uasset'
+[2024.03.11-15.44.38:013][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2
+[2024.03.11-15.44.38:014][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/2FJPSLFYEBHTZC08QX3VR23E084A1E47E914B2BFDDFBBE67175B62.tmp' to 'D:/Experimental-Games/MyProject3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YM/2FJPSLFYEBHTZC08QX3VR2.uasset'
+[2024.03.11-15.44.38:018][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/User_Healthbar" FILE="D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/User_Healthbar.uasset" SILENT=true
+[2024.03.11-15.44.38:024][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/User_Healthbar
+[2024.03.11-15.44.38:024][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/User_HealthbarF64F6D1F4697581E57F39196BC7EF0C3.tmp' to 'D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/User_Healthbar.uasset'
+[2024.03.11-15.44.38:030][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/H6/G0TTU1ZFEEUODQPF8TPK1C
+[2024.03.11-15.44.38:030][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/G0TTU1ZFEEUODQPF8TPK1C932F94304BBFBB234F258288D00B2B45.tmp' to 'D:/Experimental-Games/MyProject3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/H6/G0TTU1ZFEEUODQPF8TPK1C.uasset'
+[2024.03.11-15.44.38:032][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WB_Enemy" FILE="D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_Enemy.uasset" SILENT=true
+[2024.03.11-15.44.38:041][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WB_Enemy
+[2024.03.11-15.44.38:042][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/WB_EnemyFD71281B4F1DC26CDED440890C021345.tmp' to 'D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_Enemy.uasset'
+[2024.03.11-15.44.38:046][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GR/YYLPXXHQWW9P4M6CODK5H4
+[2024.03.11-15.44.38:047][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/YYLPXXHQWW9P4M6CODK5H4C23235914FCAE5F7799188AB4FAEB225.tmp' to 'D:/Experimental-Games/MyProject3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GR/YYLPXXHQWW9P4M6CODK5H4.uasset'
+[2024.03.11-15.44.38:050][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GS/0KT0Q4KVKEKEZG32B3R9VE
+[2024.03.11-15.44.38:050][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/0KT0Q4KVKEKEZG32B3R9VEB6006C0943806DBF63C7E98E2FC627E3.tmp' to 'D:/Experimental-Games/MyProject3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GS/0KT0Q4KVKEKEZG32B3R9VE.uasset'
+[2024.03.11-15.44.38:052][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WB_HealthBar" FILE="D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_HealthBar.uasset" SILENT=true
+[2024.03.11-15.44.38:056][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WB_HealthBar
+[2024.03.11-15.44.38:057][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/WB_HealthBar6476D4B04ABF79A10404879E87C43EFB.tmp' to 'D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_HealthBar.uasset'
+[2024.03.11-15.44.38:059][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WB_WallTrap" FILE="D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_WallTrap.uasset" SILENT=true
+[2024.03.11-15.44.38:067][724]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WB_WallTrap
+[2024.03.11-15.44.38:068][724]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/WB_WallTrap11EFCD614F7D2246CEE0F1B0BB7BC704.tmp' to 'D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_WallTrap.uasset'
+[2024.03.11-15.44.38:076][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 278 ms)
+[2024.03.11-15.44.38:092][724]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.11-15.44.38:092][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.03.11-15.44.38:092][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/WB_WallTrap.WB_WallTrap
+[2024.03.11-15.44.38:092][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_ShotgunComponent.BP_ShotgunComponent
+[2024.03.11-15.44.38:092][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.03.11-15.44.38:092][724]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WB_HealthBar.WB_HealthBar
+[2024.03.11-15.44.38:093][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/WB_Enemy.WB_Enemy
+[2024.03.11-15.44.38:093][724]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/User_Healthbar.User_Healthbar
+[2024.03.11-15.44.38:094][724]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/WB_WallTrap.WB_WallTrap_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WB_door_C_UAID_C4BDE57BA91B6EDC01_1606888840
+[2024.03.11-15.44.38:094][724]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/WB_Enemy.WB_Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Enemy_C_UAID_C4BDE57BA91B8ED901_1235526303
+[2024.03.11-15.44.38:094][724]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/WB_Enemy.WB_Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WB_Enemy_C_UAID_C4BDE57BA91B34E101_1932877911
+[2024.03.11-15.44.38:094][724]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/WB_Enemy.WB_Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WB_Enemy_C_UAID_C4BDE57BA91B72DB01_1693880488
