@@ -4799,3 +4799,36 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.03.11-15.12.09:174][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.03.11-15.12.09:181][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.03.11-15.12.09:181][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.11-15.17.43:829][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.11-15.17.43:833][ 83]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.036
+[2024.03.11-15.17.43:834][ 83]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/User_Healthbar] ([2] browsable assets)...
+[2024.03.11-15.17.43:837][ 83]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/User_Healthbar.User_Healthbar]
+[2024.03.11-15.17.43:837][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/User_Healthbar]
+[2024.03.11-15.17.43:842][ 83]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto1
+[2024.03.11-15.17.43:842][ 83]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/User_Healthbar_Auto136643AC74392560682B38E9304901989.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto1.uasset'
+[2024.03.11-15.17.43:843][ 83]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.03.11-15.18.59:424][157]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.03.11-15.18.59:527][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.11-15.20.05:827][287]BlueprintLog: New page: Compile User_Healthbar
+[2024.03.11-15.20.05:935][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.11-15.27.43:968][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.11-15.27.43:973][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2024.03.11-15.27.43:974][ 29]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.03.11-15.27.43:990][ 29]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.03.11-15.27.43:990][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.03.11-15.27.44:006][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2024.03.11-15.27.44:007][ 29]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/BP_FirstPersonCharacter_Auto2A9B1763D403F6B23DE7DB2AF0FCC97F6.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2024.03.11-15.27.44:008][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle] ([2] browsable assets)...
+[2024.03.11-15.27.44:008][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle]
+[2024.03.11-15.27.44:016][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto2
+[2024.03.11-15.27.44:016][ 29]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/BP_Pickup_Rifle_Auto2367CD90444FBD1742C2E75ACC5FF9BFD.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto2.uasset'
+[2024.03.11-15.27.44:019][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_ShotgunComponent] ([2] browsable assets)...
+[2024.03.11-15.27.44:019][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_ShotgunComponent]
+[2024.03.11-15.27.44:036][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_ShotgunComponent_Auto2
+[2024.03.11-15.27.44:037][ 29]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/BP_ShotgunComponent_Auto2E9CC576141077D02A18322A742615EA4.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_ShotgunComponent_Auto2.uasset'
+[2024.03.11-15.27.44:039][ 29]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/User_Healthbar] ([2] browsable assets)...
+[2024.03.11-15.27.44:041][ 29]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/User_Healthbar.User_Healthbar]
+[2024.03.11-15.27.44:041][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/User_Healthbar]
+[2024.03.11-15.27.44:047][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto2
+[2024.03.11-15.27.44:047][ 29]LogSavePackage: Moving 'D:/Experimental-Games/MyProject3/Saved/User_Healthbar_Auto2A27FBA2E4B7E0436248BE3BD282ACFCD.tmp' to 'D:/Experimental-Games/MyProject3/Saved/Autosaves/Game/FirstPerson/Blueprints/User_Healthbar_Auto2.uasset'
+[2024.03.11-15.27.44:048][ 29]LogFileHelpers: Auto-saving content packages took 0.075
