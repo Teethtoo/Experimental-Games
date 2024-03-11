@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/WB_WallTrap.uasset",
 				"D:/documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"D:/documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/FirstPerson/Blueprints/BP_ShotgunComponent.uasset",
 				"D:/documents/Uni work/Unity/Github/Experimental-Games/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
